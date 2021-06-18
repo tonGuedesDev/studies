@@ -1,6 +1,6 @@
 # studies
 
-> Esse repositório foi criado para registrar meus estudos diários e armazenar alguns conteúdos práticos e fazer revisões quando necessário.
+> Esse repositório foi criado para registrar meus estudos diários, armazenar alguns conteúdos práticos e fazer revisões quando necessário.
 
 - Javascript
 - projetos
