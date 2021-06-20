@@ -9,3 +9,4 @@
       <p>Um web app de gerenciamento de receitas, no momento está em desenvolvimento.</p>
 
 - Estudos Javascript
+      <p>Aqui registro tudo sobre meus estudos do curso javascript basico ao avançado</p>
