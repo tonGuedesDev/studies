@@ -1,6 +1,7 @@
 
 > Javascript básico
 
-## Adicionar comentarios:
-    `// Esse é um comentario`
-    
+## Adicionar comentarios em js
+```
+// Esse é um comentario
+```
