@@ -42,10 +42,10 @@
 #### label
 <p>A tag <strong>label</strong> serve para linkar o campo input</p>
 <p>Exemplo:
-    ```
+    
     <label for="email">E-mail:</label>
     <input type="email" name="email" />
-    ```
+    
 
     Se o usuário clica no nome "email", o cursor irá automaticamente para o input "email"
 </p>
