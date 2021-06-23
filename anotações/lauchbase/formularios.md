@@ -1,9 +1,9 @@
 # Trabalhando com formulários
 
-> para que serve?
+## para que serve?
 <p>Formulario é um bloco onde o usuario coloca dados. Dados esses que podem ser enviados para ser tratados no servidor ou usados para outro motivo</p>
 
-> Sintaxe
+## Sintaxe
 
 ```
 <form action="/pagina-processa-dados-do-form" method="post">
@@ -22,14 +22,7 @@
 </form>
 ```
 
-> Parâmetros
-
-#### method
-<p>O parâmetro <strong>method</strong> informa para onde os dados serão enviados.</p>
-
-#### action
-<p>O parâmetro <strong>action</strong> informa o tipo de requisição que será feita, <strong>GET</strong> ou <strong>POST</strong>.</p>
-
+## Tags
 #### input
 <p>A tag <strong>input</strong> será onde o usuário digitará os dados que serão enviados.</p>
 <p>Existem alguns tipos de dados que podem ser passados, como: texto, email, password.</p>
@@ -52,6 +45,24 @@
     Se o usuário clica no nome "email", o cursor irá automaticamente para o input "email"
 </p>
 
+#### button
+<p>A tag <strong>button</strong> envia os dados para o action informado.</p>
+
 #### textarea
 <p>A tag <strong>textarea</strong> serve para o usuário digitar texto</p>
 <p>Geralmente usado para o usuário enviar algum comentário, sugestão ou alguma informação adicional</p>
+
+## Parâmetros
+
+#### method
+<p>O parâmetro <strong>method</strong> informa para onde os dados serão enviados.</p>
+
+#### action
+<p>O parâmetro <strong>action</strong> informa o tipo de requisição que será feita, <strong>GET</strong> ou <strong>POST</strong>.</p>
+
+#### name
+<p>O parâmetro <strong>name</strong> serve para ser usado no servidor.
+Quando os dados forem enviados, a parti do name será possivel usa-los-</p>
+
+#### submit
+<p>O parâmetro <strong>submit</strong> é usado na tag button, a função dele é enviar os dados para a action informada, é esse parâmetro funciona em conjunto com o button</p>
