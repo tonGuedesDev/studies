@@ -35,9 +35,10 @@
 <p>Existem alguns tipos de dados que podem ser passados, como: texto, email, password.</p>
 
 <p>Exemplo:
+
      o input do tipo email, apenas poderá receber dados que corresponda a um email, como: exemplo@gmail.com
 
-             o input do tipo texto, pode receber qualquer tipo de dado, contanto que seja texto.
+    o input do tipo texto, pode receber qualquer tipo de dado, contanto que seja texto.
 </p>
 
 #### label
