@@ -10,7 +10,7 @@
 </form>
 ```
 
-#### Parâmetros
+### Parâmetros
 
-<h3>action</h3>
+> Parâmetros
 <p>O parâmetro **action** informa o tipo de requisição que será feita, **GET** ou **POST**.</p>
