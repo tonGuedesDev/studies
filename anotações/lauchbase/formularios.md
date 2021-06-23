@@ -62,7 +62,7 @@
 
 #### name
 <p>O parâmetro <strong>name</strong> serve para ser usado no servidor.
-Quando os dados forem enviados, a parti do name será possivel usa-los-</p>
+Quando os dados forem enviados, a parti do name será possivel usa-los</p>
 
 #### submit
-<p>O parâmetro <strong>submit</strong> é usado na tag button, a função dele é enviar os dados para a action informada, é esse parâmetro funciona em conjunto com o button</p>
+<p>O parâmetro <strong>submit</strong> é usado na tag button, a função dele é enviar os dados para a action informada, esse parâmetro funciona em conjunto com o button</p>
