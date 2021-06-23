@@ -12,5 +12,8 @@
 
 > Parâmetros
 
+#### method
+<p>O parâmetro <strong>method</strong> informa para onde os dados serão enviados.</p>
+
 #### action
 <p>O parâmetro <strong>action</strong> informa o tipo de requisição que será feita, <strong>GET</strong> ou <strong>POST</strong>.</p>
