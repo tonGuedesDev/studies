@@ -12,6 +12,6 @@
 
 - [Anotações](https://github.com/tonGuedesDev/studies/tree/main/anota%C3%A7%C3%B5es) referente aos estudos feitos
       <p>Aqui registro tudo sobre meus estudos</p>
-      [html](https://github.com/tonGuedesDev/studies/tree/main/anota%C3%A7%C3%B5es/html)</br>
-      [javascript](https://github.com/tonGuedesDev/studies/tree/main/anota%C3%A7%C3%B5es/JavaScript)</br>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[express]()
+     - [html](https://github.com/tonGuedesDev/studies/tree/main/anota%C3%A7%C3%B5es/html)</br>
+     - [javascript](https://github.com/tonGuedesDev/studies/tree/main/anota%C3%A7%C3%B5es/JavaScript)</br>
+     - &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[express]()
