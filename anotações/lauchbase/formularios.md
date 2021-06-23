@@ -42,7 +42,7 @@
 </p>
 
 #### label
-<p>A tag <strong>label</strong> serve para linkar o campo input</p>
+<p>A tag <strong>label</strong> serve para linkar o campo com o input</p>
 <p>Exemplo:
     
     <label for="email">E-mail:</label>
