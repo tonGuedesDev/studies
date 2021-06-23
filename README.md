@@ -10,5 +10,5 @@
   - [Particular Class](https://github.com/tonGuedesDev/particularClass)
       <p>App de aulas particulares desenvolvido para fins de estudos a parti do curso lauchbase da rocketseat</p>
 
-- Anotações referente aos estudos feitos
+- [Anotações](https://github.com/tonGuedesDev/studies/tree/main/anota%C3%A7%C3%B5es) referente aos estudos feitos
       <p>Aqui registro tudo sobre meus estudos</p>
