@@ -1,5 +1,4 @@
-# Recebendo dados do front-end
-<p>É possivel pegar dados do front com o express de duas formas</p>
+# Validando dados recebidos
 
 ```
 const keys = Object.keys(req.body)
