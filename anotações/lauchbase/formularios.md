@@ -13,4 +13,4 @@
 > Parâmetros
 
 #### action
-<p>O parâmetro **action** informa o tipo de requisição que será feita, **GET** ou **POST**.</p>
+<p>O parâmetro <strong>action</strong> informa o tipo de requisição que será feita, <strong>GET</strong> ou <strong>POST</strong>.</p>
