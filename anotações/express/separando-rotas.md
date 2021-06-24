@@ -16,7 +16,7 @@ conforme o tempo passa e o projeto cresce, será necessário separar as funçõe
     export.nomeAsuaEscolha = "aqui vai oque você quer exporta"
     ```
 
-module.exports retorna um módulo com apenas uma função.
+module.exports retorna um módulo com apenas uma função. </br>
 exports retorna um objeto com a possibilidade de ter diversas funções nele.
 
 </br>
