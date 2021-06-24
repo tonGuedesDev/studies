@@ -2,7 +2,7 @@
 
 conforme o tempo passa e o projeto cresce, será necessário separar as funções das rotas.
 
-1 - Criar um arquivo separado na mesma pasta das rotas
+1 - Criar um arquivo separado na mesma pasta das rotas </br>
 2 - exporta as funções.
     existem 2 maneiras de fazer essa exportação:
 
@@ -18,3 +18,6 @@ conforme o tempo passa e o projeto cresce, será necessário separar as funçõe
 
 module.exports retorna um módulo com apenas uma função.
 exports retorna um objeto com a possibilidade de ter diversas funções nele.
+
+</br>
+3 - fazer a chamada da função que você exportou usando o require()
