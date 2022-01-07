@@ -10,8 +10,8 @@
   - [Particular Class](https://github.com/tonGuedesDev/particularClass)
       <p>App de aulas particulares desenvolvido para fins de estudos a parti do curso lauchbase da rocketseat</p>
 
-- [Anotações](https://github.com/tonGuedesDev/studies/tree/main/anota%C3%A7%C3%B5es) referente aos estudos feitos
+- [Anotações](https://github.com/tonGuedesDev/studies/tree/main/anotacoes) referente aos estudos feitos
       <p>Aqui registro tudo sobre meus estudos</p>
-     - [html](https://github.com/tonGuedesDev/studies/tree/main/anota%C3%A7%C3%B5es/html)</br>
-     - [javascript](https://github.com/tonGuedesDev/studies/tree/main/anota%C3%A7%C3%B5es/JavaScript)</br>
+     - [html](https://github.com/tonGuedesDev/studies/tree/main/anotacoes/html)</br>
+     - [javascript](https://github.com/tonGuedesDev/studies/tree/main/anotacoes/JavaScript)</br>
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - [express]()
